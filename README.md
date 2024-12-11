@@ -2,7 +2,7 @@
 
 ### Project Goals
 
-The main goal of my project is to demonstrate the skills I have gained throughout the Python course as part of the Professional Diploma in Data Analytics and Finnish Language from Aalto EE. I selected the idea of this project from a [collection of test assignments for data analytics](https://pavelbukhtik.notion.site/Product-Analyst-Data-Analyst-a5f7bea5a0064960bbdb7a3ee1e46e7) (NB: It's in Russian). The country codes and names data were sourced from the [ISO-3166 dataset](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/master/all).
+The main goal of my project is to demonstrate the skills I have gained throughout the Python course as part of the Professional Diploma in Data Analytics and Finnish Language from Aalto EE. I selected the idea of this project from a [collection of test assignments for data analytics](https://nodatanogrowth.com/test-tasks) (NB: It's in Russian). The country codes and names data were sourced from the [ISO-3166 dataset](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/master/all).
 
 ### Data Analysis Task
 
